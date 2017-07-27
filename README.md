@@ -1,3 +1,3 @@
 # break
 
-This is a python practice project to create a break planner
+This is a python practice project to create a break reminder
